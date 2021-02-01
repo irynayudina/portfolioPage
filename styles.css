@@ -1,0 +1,8 @@
+body{background-image: url("images/greenBlue.png"); background-repeat: no-repeat; background-size: 1536px, 695px;}
+.content{position:fixed; top:0px; left:357px; width: 822px; height:690px; padding-top: 60px; background-color: rgba(255, 255, 255, 0);overflow: scroll;}
+.content::-webkit-scrollbar {
+    display: none;
+  }
+.content-item{position:relative; background-color:#15d1cb; height:  357px; width: 257px;margin-bottom: 20px; }
+header{position: fixed; top:0px}
+p{margin: 0px;}
